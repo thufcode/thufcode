@@ -4,9 +4,9 @@
 <li>Analista de Sistema e estudante assíduo de Cibersegurança.</li>
 <li>Formado em Análise e Desenvolvimento de Sistemas UNIC - Universidade Cuiabá</li>
 <li>Gosto de programação como hobby, as linguagens Python e ShellScript.</li>
-<li>Chama aí, bora trocar uma ideia!</li>
+<li>E aí, bora trocar uma ideia!</li>
 <li>Como entrar em contato comigo: <a href="mailto:romildothuf@gmail.com">romildothuf@gmail.com</a></li>
-<li>Portfólio: <a href="https://foryousec.com" rel="nofollow">https://foryousec.com</a></li>
+<li>Site: <a href="https://foryousec.com" rel="nofollow">https://foryousec.com</a></li>
 </ul>
 
 # 🌟 Estatísticas do GitHub
