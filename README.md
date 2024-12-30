@@ -48,7 +48,8 @@
 </a>
 </th>
 </tr>
-
+  
+</table>
 <div align="center" dir="auto">
   <br>
   <p align="center" dir="auto"><b>Visitantes</b></p>  
@@ -59,7 +60,5 @@
   </p> 
   <br>
 </div>
-  
-</table>
 
 </div>
