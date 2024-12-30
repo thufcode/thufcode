@@ -48,6 +48,18 @@
 </a>
 </th>
 </tr>
+
+<div align="center" dir="auto">
+  <br>
+  <p align="center" dir="auto"><b>Visitantes</b></p>  
+  <p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/thufcode/count.svg">
+      <img align="center" src="https://profile-counter.glitch.me/thufcode/count.svg" alt="Contador de Visitantes" style="max-width: 100%;">
+    </a>
+  </p> 
+  <br>
+</div>
+  
 </table>
 
 </div>
