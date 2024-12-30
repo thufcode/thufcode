@@ -2,32 +2,41 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thufcode&show_icons=true&count_private=true&theme=dark)
-
-<div style="display: flex; justify-content: center; align-items: center;">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thufcode&layout=compact&langs_count=6&theme=dark)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <h4>Stats</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=thufcode&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
+    </td>
+    <td>
+      <h4>Top Languages by Repo</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thufcode&layout=compact&langs_count=6&theme=dark" alt="Top Languages">
+    </td>
+    <td>
+      <h4>Top Languages by Commit</h4>
+      <img src="https://streak-stats.demolab.com/?user=thufcode&theme=dark" alt="Top Commit Languages">
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-# 🔥 Contribuições e Streaks
+# 📊 Contribuições Recentes
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=thufcode&theme=dark)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=thufcode&theme=github-dark)
 
 </div>
 
 ---
 
-# 🧮 Contagem de visitantes
+# 🧮 Contagem de Visitantes
 
 <div align="center">
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=thufcode)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=thufcode" alt="Contagem de Visitantes">
 
 </div>
