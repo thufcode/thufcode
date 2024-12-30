@@ -6,8 +6,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thufcode&layout=compact&langs_count=6&theme=dark)
 
-<p><b>Linguagens Mais Usadas</b></p>
-
 </div>
 
 ---
