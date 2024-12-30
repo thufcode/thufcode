@@ -1,10 +1,12 @@
-# 🌟 GitHub Stats
+# 🌟 Estatísticas do GitHub
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thufcode&show_icons=true&count_private=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thufcode&layout=compact&langs_count=6&theme=dark)
+
+<p><b>Linguagens Mais Usadas</b></p>
 
 </div>
 
