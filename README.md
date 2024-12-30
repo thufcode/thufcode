@@ -4,7 +4,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thufcode&show_icons=true&count_private=true&theme=dark)
 
+<div style="display: flex; justify-content: center; align-items: center;">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thufcode&layout=compact&langs_count=6&theme=dark)
+
+</div>
 
 </div>
 
