@@ -1,6 +1,6 @@
 <h1 class="heading-element" dir="auto" style="font-size: 2em;">Romildo Santos Oliveira</h1>
 
-<ul dir="auto" style="font-size: 1.5em;">
+<ul dir="auto" style="font-size: 5em;">
   <li>Analista de Sistema e estudante de Cibersegurança.</li>
   <li>Formado em Análise e Desenvolvimento de Sistemas UNIC - Universidade Cuiabá</li>
   <li>Gosto de programação como hobby, as linguagens Python e ShellScript.</li>
