@@ -5,21 +5,43 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Romildo Santos Oliveira</title>
   <style>
-    /* Estilos CSS para ajustar os tamanhos das fontes */
+    /* Ajusta o tamanho do título principal */
     h1.heading-element {
-      font-size: 2.5em; /* Título maior */
+      font-size: 2.5em;
     }
 
+    /* Ajusta o tamanho dos itens da lista */
     ul {
-      font-size: 1.5em; /* Aumenta o tamanho dos itens da lista */
+      font-size: 1.2em;
+      line-height: 1.5; /* Melhora o espaçamento entre linhas */
     }
 
-    div.stats-table {
-      font-size: 1.2em; /* Aumenta o tamanho do texto nas tabelas de estatísticas */
+    /* Ajusta o tamanho do texto nas tabelas de estatísticas */
+    table th {
+      font-size: 1.2em;
     }
 
-    div.visitors {
-      font-size: 1.5em; /* Aumenta o tamanho do texto na seção de visitantes */
+    /* Ajusta o tamanho do texto na seção de visitantes */
+    div.visitors p {
+      font-size: 1.2em;
+    }
+
+    /* Estilização adicional para evitar conflitos */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #121212; /* Cor de fundo escura */
+      color: #ffffff; /* Texto branco para contraste */
+      margin: 0;
+      padding: 0;
+    }
+
+    a {
+      color: #1e90ff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
@@ -37,7 +59,7 @@
 
   <h2>🌟 Estatísticas do GitHub</h2>
 
-  <div align="center" class="stats-table">
+  <div align="center">
     <table>
       <thead>
         <tr>
