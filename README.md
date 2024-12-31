@@ -23,7 +23,7 @@
 </th>
 <th align="center">
 <a target="_blank" rel="noopener noreferrer nofollow" href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thufcode&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thufcode&theme=github_dark" alt="Top Languages by Repo" style="max-width: 100%;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thufcode&theme=github_dark" alt="Principais Linguagens" style="max-width: 100%;">
 </a>
 </th>
 <th align="center">
